@@ -7,8 +7,8 @@ import threading
 import winsound  # For built-in beep sound (Windows only)
 
 # ==============================
-# 💣 UNIVERSAL SPAMMER v9003 PRO MAX with SOUND FX
-# All in one .py file — Coded by GaurishTheGoat 🐐
+# 💣 UNIVERSAL SPAMMER with SOUND FX
+# All in one .py file — Coded by Gaurish Metha
 # ==============================
 
 # 🔥 Spam Logic
